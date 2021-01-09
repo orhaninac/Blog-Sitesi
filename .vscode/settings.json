@@ -1,0 +1,6 @@
+{
+    "files.associations": {"*.html": "html"},
+    "emmet.includeLanguages": {"django-html": "html"},
+    "emmet.triggerExpansionOnTab": true,
+    "window.zoomLevel": 0
+}
